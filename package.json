@@ -1,0 +1,24 @@
+{
+  "name": "yang-orm",
+  "author" : "yanglei",
+  "version": "0.0.1",
+  "description": "Yet another simple ORM for node.js.",
+  "keywords" : ["javascript", " nodejs", "orm", "mysql"],
+  "_nodeVersion": "6.2.0",
+  "_npmVersion": "3.8.2",
+  "dependencies" : {
+    "mysql2": "^1.1.1"
+  },
+  "devDependencies" : {
+
+  },
+  "license": "MIT",
+  "main": "./lib/ORM",
+  "respository" : {
+    "type" : "git",
+    "url" : "https://github.com/247521776/yang-orm"
+  },
+  "bug" : {
+    "url" : "https://github.com/247521776/yang-orm/issues"
+  }
+}
